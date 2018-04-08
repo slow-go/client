@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAAA,QAAQC,GAAR,CAAY,OAAZ","file":"client.c4366b8e.map","sourcesContent":["console.log('hello');"]}
