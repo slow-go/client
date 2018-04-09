@@ -4,11 +4,9 @@ class App extends React.Component {
   render() {
     return (
       <div className="app">
-        <div>
-          <header>
-            <h1>Hello!</h1>
-          </header>
-        </div>
+        <header>
+          <h1>Hello!</h1>
+        </header>
       </div>
     );
   }
